@@ -1,0 +1,19 @@
+{
+  "name": "gitless",
+  "version": "1.0.0",
+  "description": "ee",
+  "main": "e",
+  "scripts": {
+    "test": "e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadoctober/gitless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadoctober/gitless/issues"
+  },
+  "homepage": "https://github.com/sadoctober/gitless#readme"
+}
